@@ -11,7 +11,7 @@ I'm currently looking for roles in **ML Engineering** and **Research & Developme
 | Degree | Field | Institution |
 |---|---|---|
 | M.S. (in progress) | Computer Science | University of Trento |
-| B.S. | Physics | — |
+| B.S. | Physics | Midwestern State University |
 
 ---
 
@@ -53,8 +53,8 @@ A from-scratch PyTorch replication of the classic **Show, Attend, and Tell** ima
 
 I'm open to collaborations, research discussions, and job opportunities in ML Engineering or R&D.
 
-- 💼 LinkedIn: *[add your LinkedIn URL]*
-- 📧 Email: *[add your email]*
+- 💼 LinkedIn: *www.linkedin.com/in/hunter-baker-58a70b2a8*
+- 📧 Email: *baker.hunterd22@gmail.com*
 
 ---
 
