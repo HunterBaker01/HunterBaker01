@@ -59,13 +59,9 @@ A from-scratch PyTorch replication of the classic **Show, Attend, and Tell** ima
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 ---
 
 ## 📫 Get in Touch
-
-I'm open to collaborations, research discussions, and job opportunities in ML Engineering or R&D.
 
 - 💼 LinkedIn: *www.linkedin.com/in/hunter-baker-58a70b2a8*
 - 📧 Email: *baker.hunterd22@gmail.com*
