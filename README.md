@@ -1,6 +1,6 @@
 # Hi, I'm Hunter Baker 👋
 
-I'm an ML engineer and researcher completing my **Master's in Computer Science at the University of Trento**, with a **B.S. in Physics**. My work sits at the intersection of geometric deep learning, quantum computing, and computer vision — I'm particularly drawn to problems where strong mathematical structure can make models more efficient and principled.
+Physicist turned ML engineer, currently pursuing my **Master's in Computer Science at the University of Trento**. My research focuses on **equivariant models for quantum machine learning** — using symmetry-preserving architectures to make models more principled and efficient. I'm drawn to problems where deep mathematical structure does real work.
 
 I'm currently looking for roles in **ML Engineering** and **Research & Development**, and open to collaborations on interesting problems.
 
@@ -17,8 +17,8 @@ I'm currently looking for roles in **ML Engineering** and **Research & Developme
 
 ## 🔬 Research
 
-**Master's Thesis** — *Equivariant Models for Quantum Machine Learning: Image Denoising*  
-Applying symmetry-preserving (equivariant) neural architectures within quantum machine learning frameworks, with a focus on image denoising tasks.
+**Master's Thesis** *(in progress)* — *Equivariant Models for Quantum Machine Learning: Image Denoising*  
+Actively developing symmetry-preserving (equivariant) neural architectures within quantum machine learning frameworks, with a focus on image denoising tasks.
 
 **Bachelor's Thesis** — *Higher-Order Corrections to Bhabha Scattering*  
 Computed radiative corrections to electron-positron scattering in QED — a mathematically demanding problem in theoretical physics.
