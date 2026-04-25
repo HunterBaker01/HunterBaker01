@@ -8,10 +8,10 @@ I'm currently looking for roles in **ML Engineering** and **Research & Developme
 
 ## 🎓 Education
 
-| Degree | Field | Institution |
-|---|---|---|
-| M.S. (in progress) | Computer Science | University of Trento |
-| B.S. | Physics | Midwestern State University |
+| Degree | Field | Institution | Year |
+|---|---|---|---|
+| M.S. (in progress) | Computer Science | University of Trento | 2026 |
+| B.S. | Physics | Midwestern State University | 2022 |
 
 ---
 
@@ -28,11 +28,11 @@ Computed radiative corrections to electron-positron scattering in QED — a math
 ## 📌 Featured Projects
 
 ### [Proto-CoOp-Hybrid](https://github.com/HunterBaker01/Proto-CoOp-Hybrid)
-A hybrid few-shot learning framework combining **proto-adapter networks** with **Context Optimization (CoOp)** for prompt tuning. Evaluated on the Oxford Flowers102 dataset, with an ongoing modular refactor for extensibility across new benchmarks.
+A hybrid few-shot learning framework combining **proto-adapter networks** with **Context Optimization (CoOp)** for prompt tuning. Evaluated on the Oxford Flowers102 dataset.
 
 > `few-shot-learning` · `prompt-tuning` · `computer-vision` · `PyTorch`
 
-### [S.A.T — Show, Attend, and Tell](https://github.com/HunterBaker01/S.A.T)
+### [pytorch-image-captioning](https://github.com/HunterBaker01/pytorch-image-captioning)
 A from-scratch PyTorch replication of the classic **Show, Attend, and Tell** image captioning paper. Implements the encoder-decoder architecture with soft attention, with a full training and evaluation pipeline.
 
 > `image-captioning` · `attention` · `seq2seq` · `PyTorch`
