@@ -57,8 +57,6 @@ A from-scratch PyTorch replication of the classic **Show, Attend, and Tell** ima
 
 **Languages & Tools**  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ---
 
 ## 📫 Get in Touch
