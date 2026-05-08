@@ -37,6 +37,11 @@ A from-scratch PyTorch replication of the classic **Show, Attend, and Tell** ima
 
 > `image-captioning` · `attention` · `seq2seq` · `PyTorch`
 
+### [facebase](https://github.com/HunterBaker01/facebase)
+A CLI tool for registering and recognizing faces in photos using facial embeddings stored in **PostgreSQL with pgvector**. The Rust binary handles CLI and database logic; a Python script generates embeddings via DeepFace. Built to explore Rust, vector search, and face recognition.
+
+> `rust` · `postgresql` · `pgvector` · `face-recognition` · `embeddings`
+
 ---
 
 ## 🛠️ Tech Stack
