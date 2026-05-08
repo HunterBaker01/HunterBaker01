@@ -49,7 +49,9 @@ A from-scratch PyTorch replication of the classic **Show, Attend, and Tell** ima
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
 **Quantum ML**  
+![PennyLane](https://img.shields.io/badge/PennyLane-00B388?style=for-the-badge)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
+
 
 **Experiment Tracking**  
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white)
