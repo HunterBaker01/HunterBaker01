@@ -27,6 +27,11 @@ Computed radiative corrections to electron-positron scattering in QED — a math
 
 ## 📌 Featured Projects
 
+### [equivariant-qml](https://github.com/HunterBaker01/equivariant-qml)
+A **C₄-equivariant variational quantum circuit** that classifies images while staying invariant to 90° rotations *by construction* — symmetry baked into the circuit (group twirling, shared orbit parameters, invariant readout) rather than learned from data.
+
+> `quantum-machine-learning` · `equivariant` · `PennyLane` · `variational-quantum-circuits`
+
 ### [Proto-CoOp-Hybrid](https://github.com/HunterBaker01/Proto-CoOp-Hybrid)
 A hybrid few-shot learning framework combining **proto-adapter networks** with **Context Optimization (CoOp)** for prompt tuning. Evaluated on the Oxford Flowers102 dataset.
 
@@ -69,7 +74,7 @@ A CLI tool for registering and recognizing faces in photos using facial embeddin
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: *www.linkedin.com/in/hunter-baker-58a70b2a8*
-- 📧 Email: *baker.hunterd22@gmail.com*
+- 📧 Email: *hbaker599@gmail.com*
 
 ---
 
